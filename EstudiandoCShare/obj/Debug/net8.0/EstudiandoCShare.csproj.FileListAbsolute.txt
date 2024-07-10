@@ -1,0 +1,14 @@
+D:\Archivos importantes - nunca borrar\archivos\proyectos de programacion\C# visual code y mas\EstudiandoCShare\bin\Debug\net8.0\EstudiandoCShare.exe
+D:\Archivos importantes - nunca borrar\archivos\proyectos de programacion\C# visual code y mas\EstudiandoCShare\bin\Debug\net8.0\EstudiandoCShare.deps.json
+D:\Archivos importantes - nunca borrar\archivos\proyectos de programacion\C# visual code y mas\EstudiandoCShare\bin\Debug\net8.0\EstudiandoCShare.runtimeconfig.json
+D:\Archivos importantes - nunca borrar\archivos\proyectos de programacion\C# visual code y mas\EstudiandoCShare\bin\Debug\net8.0\EstudiandoCShare.dll
+D:\Archivos importantes - nunca borrar\archivos\proyectos de programacion\C# visual code y mas\EstudiandoCShare\bin\Debug\net8.0\EstudiandoCShare.pdb
+D:\Archivos importantes - nunca borrar\archivos\proyectos de programacion\C# visual code y mas\EstudiandoCShare\obj\Debug\net8.0\EstudiandoCShare.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos importantes - nunca borrar\archivos\proyectos de programacion\C# visual code y mas\EstudiandoCShare\obj\Debug\net8.0\EstudiandoCShare.AssemblyInfoInputs.cache
+D:\Archivos importantes - nunca borrar\archivos\proyectos de programacion\C# visual code y mas\EstudiandoCShare\obj\Debug\net8.0\EstudiandoCShare.AssemblyInfo.cs
+D:\Archivos importantes - nunca borrar\archivos\proyectos de programacion\C# visual code y mas\EstudiandoCShare\obj\Debug\net8.0\EstudiandoCShare.csproj.CoreCompileInputs.cache
+D:\Archivos importantes - nunca borrar\archivos\proyectos de programacion\C# visual code y mas\EstudiandoCShare\obj\Debug\net8.0\EstudiandoCShare.dll
+D:\Archivos importantes - nunca borrar\archivos\proyectos de programacion\C# visual code y mas\EstudiandoCShare\obj\Debug\net8.0\refint\EstudiandoCShare.dll
+D:\Archivos importantes - nunca borrar\archivos\proyectos de programacion\C# visual code y mas\EstudiandoCShare\obj\Debug\net8.0\EstudiandoCShare.pdb
+D:\Archivos importantes - nunca borrar\archivos\proyectos de programacion\C# visual code y mas\EstudiandoCShare\obj\Debug\net8.0\EstudiandoCShare.genruntimeconfig.cache
+D:\Archivos importantes - nunca borrar\archivos\proyectos de programacion\C# visual code y mas\EstudiandoCShare\obj\Debug\net8.0\ref\EstudiandoCShare.dll
