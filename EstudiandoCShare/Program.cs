@@ -13,5 +13,10 @@ las lineas verdes a la izqueirda del codigo reflejan las nuevas lineas, en azul 
 Se puede arriba a la derecha dividir la pantalla en dos o mas, tambien se puede usar la opcion inline view para que se marquen los cambios de codigo aun mas
 siembre hayu que poner comentario en cada commit
 en los 3 puntitos de source control esta la opcion de merge branch, para hacer un merge entre el main y el branch sobre el que desarrollo
+se puede usar git: clone para clonar un proyecto de github
+
+se puede modificar la cantridad de especios por tab
+*/
+
 Console.WriteLine("Hello, World!");
 
