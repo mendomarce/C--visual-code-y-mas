@@ -11,5 +11,7 @@ Cuando se trabaja en un proyecto, se hace sobre una rama que no sea main, se cre
 entonces se crea una nueva rama con "create branch"
 las lineas verdes a la izqueirda del codigo reflejan las nuevas lineas, en azul las lineas modificadas y con una flecha roja entre un par de lineas se señala que una linea o mas fueron borradas
 Se puede arriba a la derecha dividir la pantalla en dos o mas, tambien se puede usar la opcion inline view para que se marquen los cambios de codigo aun mas
+siembre hayu que poner comentario en cada commit
+en los 3 puntitos de source control esta la opcion de merge branch, para hacer un merge entre el main y el branch sobre el que desarrollo
 Console.WriteLine("Hello, World!");
 
